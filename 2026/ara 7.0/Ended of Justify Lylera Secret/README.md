@@ -34,6 +34,6 @@ So this mean we can't use like on this website: https://eslam.io/posts/ejs-serve
 
 The payload i use:
 
-[poc.js](https://github.com/ARenewalAgent-ITS/ara7-ctf-challenges/blob/main/mirror/web/Ended%20of%20Justify%20lylera%20Secret/poc/poc.js)
+[poc.js](https://github.com/Lunalight-Yui/Lylera-Solping-Probset-Event/blob/main/2026/ara%207.0/Ended%20of%20Justify%20Lylera%20Secret/poc.js)
 
 and yes, you can bypass everything on blacklist using this script
