@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  meow-pwn:
+    build: .
+    container_name: bof
+    ports:
+      - "1111:1111"
+    restart: always
